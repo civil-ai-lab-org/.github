@@ -1,0 +1,18 @@
+**「卒論ToDoリスト」テンプレート**
+（`.github/ISSUE_TEMPLATE/thesis_todo.md`）
+
+```markdown
+---
+name: 卒論修正タスク (Thesis Correction)
+about: 先生からの指摘事項や、自分でやるべき修正を管理
+title: "[修正] 第〇章の修正"
+labels: thesis
+---
+
+## 修正内容
+* 先生からの指摘：〇〇の図が分かりにくい
+* 修正方針：フォントサイズを大きくして再出力する
+
+## 状態
+- [ ] 修正作業
+- [ ] 先生確認待ち
