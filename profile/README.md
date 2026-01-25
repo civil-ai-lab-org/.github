@@ -5,7 +5,7 @@
 
 ## 🚀 はじめに (For New Members)
 新しく配属された学生は、まず以下を確認してください。
-- [📘 lab-manual](https://github.com/OrgName/lab-manual) : 研究室のルール、環境構築、Gitの使い方はこちら
+- [📘 lab-manual](https://github.com/civil-ai-lab-org/lab-manual) : 研究室のルール、環境構築、Gitの使い方はこちら
 
 ---
 
