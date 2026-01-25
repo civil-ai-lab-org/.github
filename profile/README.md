@@ -14,6 +14,7 @@
 - [🔰 python-basics](リンク) : Pythonの基礎文法
 - [🖼️ pytorch-tutorial](リンク) : 画像処理とDeep Learningの基礎 (A班向け)
 - [📝 nlp-tutorial](リンク) : 自然言語処理の基礎 (B班向け)
+- [optimization-tutorial](https://github.com/civil-ai-lab-org/optimization-tutorial.git)]：設計最適化の基礎（C班向け）
 
 ---
 
