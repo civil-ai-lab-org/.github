@@ -12,7 +12,9 @@
 ## 📚 教育・学習用 (Education & Demos)
 
 ### 基礎ゼミナール（機械学習体験） ###
+- [ai-demo-2025](https://github.com/civil-ai-lab-org/ai-demo-2025.git)：Hugging Faceを使って画像処理、物体検出、自然言語処理を体験！
 
+ 
 ### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
 - [🔰 python-basics](リンク) : Pythonの基礎文法
