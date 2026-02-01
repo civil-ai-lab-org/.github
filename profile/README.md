@@ -10,6 +10,10 @@
 ---
 
 ## 📚 教育・学習用 (Education & Demos)
+
+### 基礎ゼミナール（機械学習体験） ###
+
+### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
 - [🔰 python-basics](リンク) : Pythonの基礎文法
 - [🖼️ pytorch-tutorial](リンク) : 画像処理とDeep Learningの基礎 (A班向け)
