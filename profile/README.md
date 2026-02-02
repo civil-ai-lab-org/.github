@@ -19,10 +19,11 @@
  
 ### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
-- [🖼️ pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎 (A班向け)
-- [📝 nlp-tutorial](リンク) : 自然言語処理の基礎 (B班向け)　工事中
+- [pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎 (A班向け)
 - [demo-landscape-ai](https://github.com/civil-ai-lab-org/demo-landscape-ai.git)：画像と自然言語を結びつけるCLIP（B班向け）
 - [optimization-tutorial](https://github.com/civil-ai-lab-org/optimization-tutorial.git)：設計最適化の基礎（C班向け）
+
+- [📝 nlp-tutorial](リンク) : 自然言語処理の基礎 (B班向け)　工事中
 
 ---
 
