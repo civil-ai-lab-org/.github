@@ -30,11 +30,11 @@
 ## 🛠️ 研究プロジェクト (Research Projects)
 
 ### 🅰️ A班：画像・物理AI (Image & Physics)
-- [repo-name] : 打音検査の異常検知 (Autoencoder)
+- [repo-name](link) : 打音検査の異常検知 (Autoencoder)
 - [repo-name] : PINNsによる熱伝導解析
 
 ### 🅱️ B班：言語・マルチモーダル (NLP & Multimodal)
-- [repo-name] : 点検調書のテキストマイニング
+- [research-inspection](https://github.com/civil-ai-lab-org/research-inspection.git) : 点検調書のテキストマイニング
 - [repo-name] : CLIPによる景観分析
 
 ### 🅲 C班：最適化 (Optimization)
