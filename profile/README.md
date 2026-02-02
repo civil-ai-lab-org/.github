@@ -14,11 +14,12 @@
 ### 基礎ゼミナール（機械学習体験） ###
 - [ai-demo-2025](https://github.com/civil-ai-lab-org/ai-demo-2025.git)：Hugging Faceを使って画像処理、物体検出、自然言語処理を体験！
 
+### ３年生　ゼミナール ###
+- [🔰 python-basics](リンク) : Pythonの基礎文法
  
 ### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
-- [🔰 python-basics](リンク) : Pythonの基礎文法
-- [🖼️ pytorch-tutorial](リンク) : 画像処理とDeep Learningの基礎 (A班向け)
+- [🖼️ pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎 (A班向け)
 - [📝 nlp-tutorial](リンク) : 自然言語処理の基礎 (B班向け)　工事中
 - [demo-landscape-ai](https://github.com/civil-ai-lab-org/demo-landscape-ai.git)：画像と自然言語を結びつけるCLIP（B班向け）
 - [optimization-tutorial](https://github.com/civil-ai-lab-org/optimization-tutorial.git)：設計最適化の基礎（C班向け）
