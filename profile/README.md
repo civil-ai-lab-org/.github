@@ -30,7 +30,7 @@
 ## 🛠️ 研究プロジェクト (Research Projects)
 
 ### 🅰️ A班：画像・物理AI (Image & Physics)
-- [repo-name](link) : 打音検査の異常検知 (Autoencoder)
+- [research-anomaly-detection](https://github.com/civil-ai-lab-org/research-anomaly-detection.git) : 打音検査の異常検知 (Autoencoder)
 - [repo-name] : PINNsによる熱伝導解析
 
 ### 🅱️ B班：言語・マルチモーダル (NLP & Multimodal)
