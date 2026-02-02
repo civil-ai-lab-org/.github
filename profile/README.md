@@ -11,7 +11,7 @@
 
 ## 📚 教育・学習用 (Education & Demos)
 
-### 基礎ゼミナール（機械学習体験） ###
+### ２年生　基礎ゼミナール（機械学習体験） ###
 - [ai-demo-2025](https://github.com/civil-ai-lab-org/ai-demo-2025.git)：Hugging Faceを使って画像処理、物体検出、自然言語処理を体験！
 
 ### ３年生　ゼミナール ###
