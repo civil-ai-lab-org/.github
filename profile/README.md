@@ -15,7 +15,7 @@
 - [ai-demo-2025](https://github.com/civil-ai-lab-org/ai-demo-2025.git)：Hugging Faceを使って画像処理、物体検出、自然言語処理を体験！
 
 ### ３年生　ゼミナール ###
-- [🔰 python-basics](リンク) : Pythonの基礎文法
+- [🔰 python-basics](https://github.com/civil-ai-lab-org/seminar-2025-python.git) : Pythonの基礎文法
  
 ### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
