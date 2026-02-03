@@ -20,7 +20,8 @@
 ### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
 #### A班 ####
-- [pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎 
+- [pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎
+- [demo-hammering-anomaly](https://github.com/civil-ai-lab-org/demo-hammering-anomaly.git)：打音検査入門
 - [demo-PINNs-heat](https://github.com/civil-ai-lab-org/demo-PINNs-heat.git)：一次元熱伝導方程式・逆解析
 - 
 
