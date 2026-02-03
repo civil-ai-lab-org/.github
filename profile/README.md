@@ -20,7 +20,9 @@
 ### 研究テーマ入門 ###
 春休みの勉強会や、基礎学習のための教材です。
 #### A班 ####
-- [pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎 (A班向け)
+- [pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎 
+- [demo-PINNs-heat](https://github.com/civil-ai-lab-org/demo-PINNs-heat.git)：一次元熱伝導方程式・逆解析
+- 
 
 #### B班 ####
 - [demo-landscape-ai](https://github.com/civil-ai-lab-org/demo-landscape-ai.git)：画像と自然言語を結びつけるCLIP（B班向け）
