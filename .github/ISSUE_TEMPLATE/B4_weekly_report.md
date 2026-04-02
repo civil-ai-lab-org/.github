@@ -1,8 +1,10 @@
+---
 name: 学部生用週報 (B4)
 about: 週2日・合計8時間以上の研究活動を報告するためのテンプレートです。
 title: "[週報] YYYY/MM/DD - 氏名"
 labels: weekly-report
 assignees: ''
+---
 
 0. 今週のコンディション
 
