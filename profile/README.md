@@ -26,7 +26,8 @@
 - [pytorch-tutorial](https://github.com/civil-ai-lab-org/pytorch_tutorial.git) : 画像処理とDeep Learningの基礎
 - [demo-hammering-anomaly](https://github.com/civil-ai-lab-org/demo-hammering-anomaly.git)：打音検査入門
 - [demo-PINNs-heat](https://github.com/civil-ai-lab-org/demo-PINNs-heat.git)：一次元熱伝導方程式・逆解析
-- [research-wave-FEM](https://github.com/civil-ai-lab-org/research_wave_fem.git):弾性波シミュレーション 
+- [research-wave-FEM](https://github.com/civil-ai-lab-org/research_wave_fem.git):弾性波シミュレーション
+- 電磁波レーダー
 
 
 #### B班 ####
